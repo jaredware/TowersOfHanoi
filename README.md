@@ -1,13 +1,13 @@
 # TowersOfHanoi
 Console Application for Automated Solution of the Towers of Hanoi Problem - With Visual Display
 
-This solution will recieve an input number of the amount of blocks in the tower and then calculate the most efficient route to move them from the start peg to the end peg
+This solution will recieve an input number of the amount of blocks in the tower and then calculate the most efficient route to move them from the start peg to the end peg.
 
 ## Getting Started
 
 
 ## Prerequisites
-This project will only require Visual Studio 2017 or above to utilise the program as it is unbuilt. This solution is not aimed at being a consumer product and so the code release and debug versions are only to be examined. Therefore there is no installation needed
+This project will only require Visual Studio 2017 or above to utilise the program as it is unbuilt. This solution is not aimed at being a consumer product and so the code release and debug versions are only to be examined. Therefore there is no installation needed.
 
 ## Assembly Information
 ### Global Variables
